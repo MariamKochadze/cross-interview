@@ -12,5 +12,4 @@
 
 -  Monday-Friday, 18:00-22:00 UTC+4
 
-**Additional Notes:**
-[Any additional information about your availability or preferences]
+
